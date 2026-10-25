@@ -14,12 +14,12 @@ lainguyn123/student-performance-factors
 Education is shaped by many elements beyond classroom learning. This dataset focuses on the different factors that impact students’ academic performance — including study habits, family background, school environment, motivation, and lifestyle. Understanding these factors can help teachers, parents, and researchers develop better learning strategies and support systems for students. The data contain 6,607 student observations and 20 variables. 
 
 The variables used for this analysis are:
-Column | Name	| Description	| Data Type
-Hours_Studied	Number of hours a student studies per week.	Integer
-Attendance	Percentage of school attendance.	Integer
-Motivation_Level	Student’s motivation level toward studies (Low, Medium, High).	Categorical
-Gender	Student’s gender (Male/Female).	Categorical
-Exam_Score	Final exam score or academic performance (target variable).	Integer
+
+Hours_Studied :	Number of hours a student studies per week - Integer
+Attendance	: Percentage of school attendance -	Integer
+Motivation_Level	: Student’s motivation level toward studies (Low, Medium, High) -	Categorical
+Gender : Student’s gender (Male/Female) -	Categorical
+Exam_Score : Final exam score or academic performance (target variable) - Integer
 
 The dataset is retrieved using the Kaggle API and is therefore
 not stored in the repository. To obtain the dataset, use the codes presented in the Preprocessing notebook.
