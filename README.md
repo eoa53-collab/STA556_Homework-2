@@ -16,7 +16,7 @@ The data contain 6,607 student observations and 20 variables.
 The dataset is retrieved using the Kaggle API and is therefore
 not stored in the repository.
 
-You will need to install "kagglehub" and "shutil" using pip install "package"
+You will need to install all the needed packages from the requirement.txt
 
 ## Project Structure
 
@@ -35,6 +35,6 @@ You will need to install "kagglehub" and "shutil" using pip install "package"
 
 Students with higher motivation have slightly higher average exam scores, although the difference between motivation groups is small.
 
-Hours studied has a moderate positive association with exam score.
+Hours studied has a moderate positive association with exam score across both genders
 
 These results describe associations and should not be interpreted as causal effects since no formal regression model was run
