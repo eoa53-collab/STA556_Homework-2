@@ -16,9 +16,13 @@ Education is shaped by many elements beyond classroom learning. This dataset foc
 The variables used for this analysis are:
 
 Hours_Studied :	Number of hours a student studies per week - Integer
+
 Attendance	: Percentage of school attendance -	Integer
+
 Motivation_Level	: Student’s motivation level toward studies (Low, Medium, High) -	Categorical
+
 Gender : Student’s gender (Male/Female) -	Categorical
+
 Exam_Score : Final exam score or academic performance (target variable) - Integer
 
 The dataset is retrieved using the Kaggle API and is therefore
