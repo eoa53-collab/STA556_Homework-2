@@ -14,7 +14,7 @@ lainguyn123/student-performance-factors
 The data contain 6,607 student observations and 20 variables.
 
 The dataset is retrieved using the Kaggle API and is therefore
-not stored in the repository.
+not stored in the repository. To obtain the dataset, use the codes presented in the Preprocessing notebook.
 
 You will need to install all the needed packages from the requirement.txt
 
