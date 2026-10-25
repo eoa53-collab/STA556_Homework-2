@@ -11,7 +11,7 @@ The Student Performance Factors dataset was obtained from Kaggle:
 Dataset:
 lainguyn123/student-performance-factors
 
-Education is shaped by many elements beyond classroom learning. This dataset focuses on the different factors that impact students’ academic performance — including study habits, family background, school environment, motivation, and lifestyle. Understanding these factors can help teachers, parents, and researchers develop better learning strategies and support systems for students. The data contain 6,607 student observations and 20 variables. 
+Education is shaped by many elements beyond classroom learning. This dataset focuses on the different factors that impact students’ academic performance including study habits, family background, school environment, motivation, and lifestyle. Understanding these factors can help teachers, parents, and researchers develop better learning strategies and support systems for students. The data contain 6,607 student observations and 20 variables. 
 
 The variables used for this analysis are:
 
